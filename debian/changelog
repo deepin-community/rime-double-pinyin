@@ -1,0 +1,29 @@
+rime-double-pinyin (0.0~git20190120.69bf85d-4) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Input Method Team <debian-input-method@lists.debian.org>  Mon, 20 Jun 2022 10:16:43 +0800
+
+rime-double-pinyin (0.0~git20190120.69bf85d-4) unstable; urgency=medium
+
+  * Fix incorrect binary package type: arch:all -> arch:any.
+
+ -- Boyuan Yang <byang@debian.org>  Tue, 15 Feb 2022 15:26:28 -0500
+
+rime-double-pinyin (0.0~git20190120.69bf85d-3) unstable; urgency=medium
+
+  * Source-only upload. 
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 09 Feb 2022 19:22:43 -0500
+
+rime-double-pinyin (0.0~git20190120.69bf85d-2) unstable; urgency=medium
+
+  * debian/copyright: Fix Source and Upstream-Name fields.
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 22 Dec 2021 13:37:34 -0500
+
+rime-double-pinyin (0.0~git20190120.69bf85d-1) unstable; urgency=medium
+
+  * Initial upload. (Closes: #1002472)
+
+ -- Boyuan Yang <byang@debian.org>  Wed, 22 Dec 2021 13:21:25 -0500
